@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 86a64205d7e4417408fbd84ca82341c9
+timeCreated: 1502036276
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mario Kart DS
+  fontNames:
+  - Mario Kart DS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dfbc82d7966b5614abc2e469cae79a08, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
